@@ -21,9 +21,9 @@ Cloud:    AWS, Docker
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jk08y&theme=graywhite&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jk08y&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jk08y&theme=graywhite&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jk08y&theme=dark&hide_border=true)
 
 </div>
 
