@@ -31,7 +31,7 @@ Cloud:    AWS, Docker
 
 <div align="center">
 
-[heykimutai10@gmail.com]() | [jkapp.pro]()
+[jkapp.pro]()
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jk08y&style=flat&color=gray)
 
